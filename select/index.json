@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "SOUVENIR",
   "base_artist": "BUMP OF CHICKEN",
-  "createdAt": "2026-03-21T23:39:22.755115Z",
+  "createdAt": "2026-03-23T13:23:01.617918Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -123,16 +123,16 @@
       "artist": "BUMP OF CHICKEN",
       "has_synced": false,
       "path": "select/localdb_01_SOUVENIR_BUMP_OF_CHICKEN.txt",
-      "repo_name": "C9vAUfSEh8Q"
+      "repo_name": "8ox31xPz6SU"
     },
     {
       "id": "localdb_2",
       "source": "localdb",
       "title": "SOUVENIR",
       "artist": "BUMP OF CHICKEN",
-      "has_synced": true,
-      "path": "select/localdb_02_SOUVENIR_BUMP_OF_CHICKEN.lrc",
-      "repo_name": "wK110xnRWVA"
+      "has_synced": false,
+      "path": "select/localdb_02_SOUVENIR_BUMP_OF_CHICKEN.txt",
+      "repo_name": "C9vAUfSEh8Q"
     },
     {
       "id": "localdb_3",
@@ -141,7 +141,7 @@
       "artist": "BUMP OF CHICKEN",
       "has_synced": true,
       "path": "select/localdb_03_SOUVENIR_BUMP_OF_CHICKEN.lrc",
-      "repo_name": "5WdcYTa3okM"
+      "repo_name": "wK110xnRWVA"
     },
     {
       "id": "localdb_4",
@@ -150,6 +150,15 @@
       "artist": "BUMP OF CHICKEN",
       "has_synced": true,
       "path": "select/localdb_04_SOUVENIR_BUMP_OF_CHICKEN.lrc",
+      "repo_name": "5WdcYTa3okM"
+    },
+    {
+      "id": "localdb_5",
+      "source": "localdb",
+      "title": "SOUVENIR",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/localdb_05_SOUVENIR_BUMP_OF_CHICKEN.lrc",
       "repo_name": "MCHA764eh0Q"
     }
   ]
